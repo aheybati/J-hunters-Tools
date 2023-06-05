@@ -1,5 +1,5 @@
 # Featured tools
-[Cut-CDN](https://github.com/ImAyrix/cut-cdn/)
+[Cut-CDN](https://github.com/ImAyrix/cut-cdn/) - To remove CDN;s IPs
 
 
 # Unverified tools
