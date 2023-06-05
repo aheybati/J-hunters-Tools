@@ -3,4 +3,4 @@
 
 
 # Unverified tools
-[Asset-Collector]([https://google.com](https://github.com/mha4065/asset-collector)
+[Asset-Collector](https://github.com/mha4065/asset-collector)
