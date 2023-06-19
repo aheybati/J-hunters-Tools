@@ -1,11 +1,12 @@
 # Featured tools
 [Cut-CDN](https://github.com/ImAyrix/cut-cdn/) - remove CDN's IPs
 
+[Programs Watcher](https://github.com/Alikhalkhali/programs-watcher) - 
 
 # Unverified tools
 [fAllParams](https://github.com/mha4065/fAllParams)
 
-[Programs Watcher](https://github.com/Alikhalkhali/programs-watcher)
+
 
 [Active-IP](https://github.com/Alikhalkhali/active-ip)
 
