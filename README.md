@@ -1,7 +1,7 @@
 # Featured tools
 [Cut-CDN](https://github.com/ImAyrix/cut-cdn/) - Remove CDN's IPs
 
-[Programs Watcher](https://github.com/Alikhalkhali/programs-watcher) - Whatching BBP Programs 
+[Programs Watcher](https://github.com/Alikhalkhali/programs-watcher) - Watching BBP Programs 
 
 # Unverified tools
 [fAllParams](https://github.com/mha4065/fAllParams)
