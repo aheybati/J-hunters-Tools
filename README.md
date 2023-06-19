@@ -18,3 +18,6 @@
 [bountydog-monitors](https://github.com/Geexirooz/bountydog)
 
 [Dorks](https://github.com/omidxrz/dorky) - makes some dorks for google, duckduckgo, bing and etc
+
+[DnsBrute](https://github.com/mha4065/dnsbrute)
+
