@@ -22,3 +22,5 @@
 
 [DnsBrute](https://github.com/mha4065/dnsbrute)
 
+[generate wordlist](https://github.com/mrmeeseeks01/BackupX)
+
