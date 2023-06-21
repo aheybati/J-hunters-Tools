@@ -24,3 +24,5 @@
 
 [generate wordlist](https://github.com/mrmeeseeks01/BackupX)
 
+[Paramx](https://github.com/mrmeeseeks01/Paramx)
+
