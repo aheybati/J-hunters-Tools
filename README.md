@@ -26,3 +26,9 @@
 
 [Paramx](https://github.com/mrmeeseeks01/Paramx)
 
+[RoboFinder](https://github.com/maverick0o0/RoboFinder/tree/main)
+
+[fuzzing host header](https://github.com/mha4065/hfuzz)
+
+[Watch-Scope](https://github.com/mha4065/watchdog)
+
